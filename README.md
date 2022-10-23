@@ -1,0 +1,2 @@
+# Challenge 7 Polishing Helix Jump
+ Challenge:  Increase the visuals of the game and overall make it very attractive. Add new game modes and make it fresher. Increase the number of bouncing balls in the extra levels to test your knowledge of unity colliders.  Use google play services to build a leader board. The outcomes include:  Learn how to polish a basic game; increase the retention and visuals of the game; Practice using Unity Colliders; Learn how to integrate Google play services.
